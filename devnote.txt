@@ -4,3 +4,10 @@ ae = application extended
 use termux for reverse shell (controlling user terminal) -- ee
 
 add PWA app control for imersive desktop for unsupported os (chromeos, linux, Macos, etc..)
+
+ ^
+ |
+ |
+
+ fully remove electron and add PWA app only desktop app will be seperate from this repo.
+ Use the luapwa plugin to create the pwa app for cleaner management

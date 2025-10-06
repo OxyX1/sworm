@@ -10,3 +10,7 @@ one of our features are able to generate a custom rat extension with full source
 This is BETTER because you have the source code and also theres a github repo dedicated FOR the desktop app not just web form. Yes some of you think its a ick.
 
 ## How to setup
+
+### installing
+
+```npm run faggot``` This actually works btw.
