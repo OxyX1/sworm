@@ -5,4 +5,8 @@ better than X worm LOL, faster and more secure.
 
 one of our features are able to generate a custom rat extension with full source code and also have the ability to generate a exe at the same time. One of our good features is able to open a "rat_exe_lite" aka a version of the application version but only more undetectable and just to extend the extension version of the rat.
 
+## Whats better about this than xworm?
+
+This is BETTER because you have the source code and also theres a github repo dedicated FOR the desktop app not just web form. Yes some of you think its a ick.
+
 ## How to setup
