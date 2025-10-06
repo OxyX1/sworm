@@ -1,0 +1,4 @@
+ee = extension extended
+ae = application extended
+
+use termux for reverse shell (controlling user terminal) -- ee
