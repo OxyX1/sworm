@@ -2,3 +2,5 @@ ee = extension extended
 ae = application extended
 
 use termux for reverse shell (controlling user terminal) -- ee
+
+add PWA app control for imersive desktop for unsupported os (chromeos, linux, Macos, etc..)
